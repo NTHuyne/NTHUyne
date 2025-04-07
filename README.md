@@ -44,5 +44,4 @@ An excellent graduate in Global Information Technology, with 2 years of experien
 
 ## Connect with me
 
-- [LinkedIn](linkedin.com/in/huyisbeee)
-- [GitHub](github.com/NTHuyne)
+- [LinkedIn](https://www.linkedin.com/in/huyisbeee/)
